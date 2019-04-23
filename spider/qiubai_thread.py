@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 26 11:16:25 2017
 
-@author: dianjoy
+@author: Alvin Gan
 """
 '''
 import threading
