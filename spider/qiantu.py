@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 21 17:49:21 2017
 
-@author: dianjoy
-"""
 
 # -*- coding: utf-8 -*-
 """
