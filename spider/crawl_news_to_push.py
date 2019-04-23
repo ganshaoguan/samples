@@ -75,5 +75,5 @@ if __name__ == '__main__':
     ent_df = pd.DataFrame(ent)
     ent_df['catagory'] = 'ent'
     combine_df = pd.concat([major_df, ent_df])
-    path = r'D:\Dianjoy\红包锁屏\日常数据\日常push'
+    path = r'D:\日常数据\日常push'
     to_excel(combine_df, path)
