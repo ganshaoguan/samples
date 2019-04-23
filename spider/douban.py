@@ -4,7 +4,7 @@ Created on Wed Dec  6 15:45:45 2017
 爬取豆瓣阅读内容提供方列表
 url = 'https://read.douban.com/provider/all'
 
-@author: dianjoy
+@author: Alvin Gan
 """
 
 import urllib.request
