@@ -4,7 +4,7 @@ Created on Mon Dec 25 17:36:25 2017
 
 http://weixin.sogou.com
 
-@author: dianjoy
+@author: Alvin G
 """
 
 import urllib.request
