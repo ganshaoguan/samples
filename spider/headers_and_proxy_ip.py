@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 19 15:36:09 2017
 
-@author: dianjoy
+@author: Alvin Gan
 """
 
 import urllib.request
